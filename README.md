@@ -7,7 +7,9 @@ This application Implements following functions:
 
 # Pre-requisites
 1.Android SDK 28.
+
 2.Android Build Tools v29.0.2.
+
 3.Android Support Repository.
 
 # Demo App
