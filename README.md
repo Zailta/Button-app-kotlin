@@ -6,10 +6,8 @@ This application Implements following functions:
 4. Create an animation in the Button on click.
 
 # Pre-requisites
-1.Android SDK 28.
-
-2.Android Build Tools v29.0.2.
-
-3.Android Support Repository.
+1. Android SDK 28.
+2. Android Build Tools v29.0.2.
+3. Android Support Repository.
 
 # Demo App
